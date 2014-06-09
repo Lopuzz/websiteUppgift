@@ -1,0 +1,44 @@
+#mainBackground{
+	background-color:#d0dae1;
+	width: 50%;
+	height: 60%;
+	margin: auto;
+	margin-top: -98px;
+	position: relative;
+}
+#splashpage{
+	height: 28%;
+	width: 100%;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 180%;
+}
+h2{
+	font-family: sans-serif;
+	font-size: 280%;
+	text-align: center;
+	margin-top: -6%;
+}
+#navHead{
+	font-weight: bold;
+	margin-left: 10%;
+}
+#navTable{
+	background-color:#d0dae1;
+	margin-top: -1.6%;
+	margin-left: 17.7%;
+	position:relative;
+	width: 7%;
+}
+#logotype{
+	height:8%;
+	width:8%;
+	margin-left: 35%;
+}
+#copyrightText{
+	text-align:center;
+}
+#mainDiv{
+	margin:auto;
+}
